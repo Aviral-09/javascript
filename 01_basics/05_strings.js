@@ -35,3 +35,4 @@ console.log(url.includes('sdunu'));
 console.log(gamename.split('-'))
 
 
+
